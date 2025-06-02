@@ -1,5 +1,8 @@
 <h1>💪 MusclesHub - Your Fitness Journey Starts Here! 💪</h1>
-    <hr>
+<p><strong>🔗 Project Preview Link:</strong> 
+    <a href="https://lucky-torte-83f7f9.netlify.app" target="_blank">MusclesHub (Netlify Domain)</a>
+</p>   
+<hr>
     <p><span class="emoji">🗓️</span><strong> Version:</strong> June 2025 (Prototype) <span class="emoji">✨</span></p>
     <hr>
     <h2><span class="emoji">🏋️‍♀️</span> About This Version <span class="emoji">🏋️‍♂️</span></h2>
